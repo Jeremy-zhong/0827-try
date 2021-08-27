@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/zhong/Desktop/vs-try/0827-try/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/include/eigen3  -g   -o CMakeFiles/helloworld.dir/1.cpp.o -c /mnt/c/Users/zhong/Desktop/vs-try/0827-try/1.cpp",
+  "file": "/mnt/c/Users/zhong/Desktop/vs-try/0827-try/1.cpp"
+}
+]
