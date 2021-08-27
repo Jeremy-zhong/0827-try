@@ -1,3 +1,5 @@
 cmake_minimum_required (VERSION 2.8.11)
 project (HELLO)
+find_package(Eigen3 3.3 REQUIRED NO_MOUDLE)
 add_executable (helloworld 1.cpp)
+target_link_libraries(helloworld Eigen3::Eigen)
